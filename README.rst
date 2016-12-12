@@ -1,3 +1,3 @@
-##EARTH
+##EARTH##
 
 ..image::image.jpg
