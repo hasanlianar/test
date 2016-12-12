@@ -1,3 +1,3 @@
 ##EARTH##
 
-..image::image.pgn
+..image:: image.pgn
